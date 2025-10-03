@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "INCONNU~XD~Gx4Q1JJK#BJ8kpb7_BjuA-aXzZu0uRw6ukO4CaCGF9_vAUdSyROY",
+SESSION_ID: process.env.SESSION_ID || "INCONNU~XD~q9oWSYzZ#jrRkBSGaD7HH1rQXWbPSJfMysuVLuHjZr4eqjcpWj3o",
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
@@ -23,9 +23,9 @@ STICKER_NAME: process.env.STICKER_NAME || "Ano______sk7",
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false", 
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
-OWNER_NUMBER: process.env.OWNER_NUMBER || "50947646367",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "2349020434443",
 OWNER_NAME: process.env.OWNER_NAME || "ANONYMOUS",
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ inconnu boy*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ anonymous hacker*",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/p1xybt.jpg",
 LIVE_MSG: process.env.LIVE_MSG || ">*QUEEN-ASUN-MD* 👸 ALIVE",
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
