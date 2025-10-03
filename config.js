@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "INCONNU~XD~bwZERLxZ#J7wG3cbT1OFYrsjDmjDiskmGutKDyXpr8vwbOecMj8M",
+SESSION_ID: process.env.SESSION_ID || "INCONNU~XD~Gx4Q1JJK#BJ8kpb7_BjuA-aXzZu0uRw6ukO4CaCGF9_vAUdSyROY",
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
@@ -17,7 +17,7 @@ ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
 ANTI_LINK: process.env.ANTI_LINK || "true",
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/p1xybt.jpg",
-PREFIX: process.env.PREFIX || "×", 
+PREFIX: process.env.PREFIX || "÷", 
 BOT_NAME: process.env.BOT_NAME || "ANONYMOUS",
 STICKER_NAME: process.env.STICKER_NAME || "Ano______sk7",
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false", 
